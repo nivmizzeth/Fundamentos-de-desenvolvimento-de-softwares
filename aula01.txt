@@ -1,0 +1,54 @@
+aula 1
+
+- softwares, programas e algoritmos.
+
+software - é um programa de computador e toda a documentação associada a esse programa
+
+programa - é uma seguencia de passos ou instruções definidas por um algoritmo
+
+Algoritmo- é uma seguencia de passos ou instruções para alcançar um objetivo bem definido
+  - sintaxe - define se um programa está escrito corretamente em uma determinada linguagem de programação
+  - semântica - garante que o codigo faz sentido e segue uma logica correta.
+
+algoritmo + logica de programação + estrutura de dados = linguagem de programação 
+
+- classificação de softwares (por Marçula 2009)
+
+softwares de sistemas (basico) - uma coleção de programas para apoiar outros programas, nescessario para o funcionamento do hardware e software
+ -sistemas operacionais (SO)- gerencia todo o hardware e software de um computador, um conjunto de softwares que interage para realizar um determinado objetivo
+
+ -softwares utilitarios (ou ferramentas de sistemas) - são os que acompanham o sistema operacional e auxiliam nas suas tarefas, ex: antivírus, compactadores, emuladores,
+desfragmentadores, formatadores, backup.
+ 
+-sistemas tradutores - convertem um programa escrito em linguagem de alto nivel para um codigo em linguagem de maquina.
+     -interpretadores - o codigo é interpretado linha por linha.
+     -compiladores - traduzem o codigo todo de uma vez gerando um executável.
+
+softwares app (app) - são programas que realizam tarefas especificas para o usuario
+
+- ciclo de vida de um software ou modelo de processo (Software Development Life Cycle – SDLC) 
+   
+indica as etapas que devem ser cumplidas e a seguencia para que um software seja desenvolvido.
+metodologia - indica como as etapas são trabalhadas
+
+metodologia tradicional - 
+vantagens - facil de gerenciar, modelo visa a alta qualidade
+desvantagens - improdutivo pois a etapa posterior apenas se iniciar depois da execução da etapa anterior, fornece pouca visibilidade do estado do projeto pois demanda muito tempo para a primeira entrega
+
+modelo cascata (watterfall)
+  
+o nome cascata vem das fases fluirem de forma seguencial como uma cascata  
+
+- são 5 fases que compoem o modelo cascata
+      requerimento - levantamento de requisitos, as metas e restrições são identificadas com o usuario
+      projeto - os requisitos indentificados na etapa anterior são mapeados em componentes no hardware e software
+      implementação -o projeto de software é implementado em unidades de programas, nessa fase tambem ocorre o teste de unidade, que envolve a verificação de cada unidade e se cada uma cumpre a especificação
+      verificação - as unidades de programas são integradas e testadas como um sistema completo
+      manutencão - o sistema é instalado e colocado em operação, corrigidos erros não identificados anteriormente, e identificação de novas funcionalidades ou/e repetição do ciclo
+
+     
+
+metodologia ageis
+entregar com rapidez e com mais frequencia versões do software, foco no software e não na documentação ou projeto
+é adequado para aplicações que os requisitos mudam rapidamente
+      
