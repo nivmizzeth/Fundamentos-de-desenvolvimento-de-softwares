@@ -50,5 +50,70 @@ o nome cascata vem das fases fluirem de forma seguencial como uma cascata
 
 metodologia ageis
 entregar com rapidez e com mais frequencia versões do software, foco no software e não na documentação ou projeto
-é adequado para aplicações que os requisitos mudam rapidamente
+é adequado para aplicações que os requisitos mudam rapidamente.
+Principios do manifesto agil 2001 (eXtreme programming xp)
+propriedade coletiva, intgração continua,planejamento incremental, represetante do cliente, programação em pares, refatoração, projeto(design)simple, laçamentos pequenos, ritmo sustentavel, desenvolvimento com testes a priori(teste first).
+
+Scrum
+flamework strutural, não considerado uma metodologia, indica uma tragetoria mas não como fazer.
+No scrum o processo é dividio em ciclos chamados sprints, um sprint é um time-boxed(define uma unidade de tempo do scrum) de um mês ou menos do qual um potencial incremento é incrementado
+o Scrum possui 3 artefatos, 5 eventos, 5 valores e 3 papeis
+Artefatos - representa o trabalho feito para fornecer transparencia ao processo(Scrum trabalha com 3 artefatos)
+        1 - product backlog - uma lista ordenada de tudo que é conhecidamente nescessario para fornecer o produto
+        2 - Sprint backlog  - é um plano feito por e para desenvolvedores, possui uma previsão do time sobre qual funcionalidade estará no proximo incremento
+        3 - increment - é soma de todos os itens do product backlog completados durante sprint e o valor dos elementos de todas as sprints anteriores
+  Eventos - eventos formais para inspeção e adaptação
+        1 - Sprint planning - inicia o sprint estabelecendo o trabalho a ser realizado para o sprint
+        2 - Daily Scrum - é uma reunião de aproximadamente 15min, objetivo é inspecionar o progresso em direção ao sprint goal e adaptar o product backlog conforme nescessario
+        3 - Sprint review - tem como objetivo inspecionar o resultado do sprint e determinar futuras adaptações
+        4 - Sprint retrospective - tem o objetivo de planejar maneiras de aumentar a qualidade e eficiência, inspeciona como foi o ultimo sprint em relação a individuos, interações, processos, ainda é discutido problemas e acertos.
+        5 - 
+  Valores - adiconados oficialmente em julho de 2016, apesar de sempre terem sido considerados
+        coragem, foco, comprometimento, Repeito abertura
+   Papeis - cada integrante do time tem um papel
+        1 - Product Owner -  é o dono do produto, é a unica pessoa responsavel pro gerenciar o product backlog
+        2 - Scrum master - responsabel por promover e suportar o scrum como definido no guia scrum, faz isso ajudando a todos a entederem a teoria, pratica, regras e valores do scrum
+        3 - Time de desenvolvimento - consiste em profissionais que realizam o trabalho de entregar um incremento a cada sprint
+
+ciclo do scrum - product backlog - sprint planning- sprint backlog - daily scrum - sprint review (spint retrospective/product backlog) - increment
+
+Glossario do desenvolvedor de software
+Front-end - desenvolvimento da parte grafica de uma aplicação web
+Back-end - a progamação que acontece do lado do servidor
+Full-stack - desenvolvedor que trabalha com front-end e back-end
+       API - aplication programming interface, um conjunto de rotina e padrões de programação que tem como objetivo acessar app de softwares ou plataformas baseadas na web, interface utilizada pro um programa e não por um usuario
+ Flamework - arcabouço de codigos, é um conjunto de codigos de uma linguagem de programação(especifica) para auxiliar o desenvolvedor, como se fosse um biblioteca de codigos com funções ja prontas.(ex:spring, angular, vue.js, react, laravel, bootstrap)
+       IDE - Integrated Development Environment, é um software que integra diversas funcionalidades para o desenvolvimento de uma unica interface gráfica, auxila e agiliza o desenvolvimento.(ex:Pycharm, 
+Eclipse, Apache Netbeans, Visual Studio.)
+       SDK - Software Development Kit, conjunto de ferramentas fornecidos por um fabricante para que se desenvolva em uma plataforma ou sistema especifico, (compilador, debugger e API)
+Nativo - Um app desenvolvido para uma unica plataforma, ex: para desenvolvimento nativo no android fazemos uso de uma SDK (Android SDK) e uma IDE (Android Studio), utilizando a linguagem 
+Java e kotlin.
+Hibrido - implica falar que sua aplicação utiliza HTML, CSS e javascrypt, utilizam flameworks ou ferramentas que permitam uma mesma base de codigos, é desenvolvida em uma liguagem e distribuida para varias plataformas
+Serviços - na area de desenvolvimento podem ser entendidos com processos de softwares,
+Monolitico - é uma aplicação que roda com um unico processo
+Micro-serviços - o softwares consiste em pequenos serviços independetes que se comunicam usando APIs bem definidas tem a caracterisca de serem automonos e especializados.
+SOAP - Service-Oriented Architecture (Or Application) Protocol, O SOAP utiliza arquivos xml e o protocolo HTTP como protocolo de transporte.
+REST - Representational State Transfer, é um conjunto de restrições para criação de webservices. Quando um serviço implementa esse padrão, dizemos que é Restfull. Restfull utiliza arquivos JSON. 
+obs - REST e SOAP são APIs e são arquiteturas de webservices,  Webservices são independentes de linguagem. Segundo Ferreira (2021), é correto afirmar que todo Webservice é uma API, mas nem toda API é um Webservice, porque tanto o Webservice quanto as APIs realizam a comunicação entre aplicações, porém a forma como são utilizados é totalmente diferente.
+Commit - enviar alterações de um determinado trecho de codigo, quando o desenvolvedor termina uma tarefa, ele gera um commit. Esse commit possui o código modificado e a explicação do que esse commit faz naquele código.
+versionamento - consite em atribuir um numero de versão ao estado do projeto.
+Snapshot - cópia instantanea em um determinado tempo do volume.
+Debug: o debugging ou debugar significa depurar o programa. Ou seja, encontrar erros e tentar resolvê-los. Aqui, só lembrando que o termo bug na área de TI se refere a um erro no programa. 
+GIT - é um sistema de controle de versão que gerencia as varias versões no desenvolvimento de um documento
+GITHUB - é uma plataforma para desenvolvedor completa para criar, dimensionar e fornecer software seguro, utiliza o git como sistema de controle.
+obs: enteda git como uma ferramenta, tendo esta, vc ainda precisara de uma servidor no caso o github ou podendo usar outros, ex: Gitlab, Bitbucket, Apache Allura.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       
